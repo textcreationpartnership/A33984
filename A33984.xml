@@ -130,7 +130,10 @@
             </q>
             <p>
                <hi>LONDON:</hi> Printed for <hi>R. Janeway,</hi> in <hi>Queens-Head-Alley,</hi> in <hi>Paternoſter-Row,</hi> 1682.</p>
-            <figure/>
+            <p>
+               <pb facs="tcp:65919:2" rendition="simple:additions"/>
+               <figure/>
+            </p>
          </div>
          <div type="to_the_reader">
             <pb facs="tcp:65919:2"/>
